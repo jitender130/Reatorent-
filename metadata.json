@@ -1,0 +1,6 @@
+{
+  "name": "DineCraft - Luxury Restaurant Demo & Online Suite",
+  "description": "Premium restaurant website with interactive table reservations, live digital menu, WhatsApp ordering, and customizable restaurant demo switcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
